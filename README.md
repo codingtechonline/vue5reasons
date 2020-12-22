@@ -1,24 +1,34 @@
-# why-choose-vue
+## Why Choose Vue?
 
-## Project setup
-```
-npm install
-```
+### Outline
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+1. Reasons
+2. Demonstration
+3. Conclusion
 
-### Compiles and minifies for production
-```
-npm run build
-```
+#### Reasons
 
-### Lints and fixes files
-```
-npm run lint
-```
+1. Fast Onboarding
+   - HTML
+   - CSS
+   - JavaScript
+   - Vue Docs
+2. Databinding
+   - Inline
+   - Models
+3. This the (Vue) Way
+   - Vue Router
+   - Vue State Managment
+   - Vue Testing
+4. Younger Sibling
+   - Best of both worlds (Angular & React)
+5. Job Market
+   - You know Vue and that's what the job is.
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+#### Demonstration
+
+#### Conclusion
+
+1. Don't forget to like comment and subscribe!
+2. What would you like to see next?
+3. Do you agree with my Vue?
